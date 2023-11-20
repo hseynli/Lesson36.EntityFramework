@@ -1,0 +1,14 @@
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\bin\Debug\net7.0\Libraries.deps.json
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\bin\Debug\net7.0\Libraries.runtimeconfig.json
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\bin\Debug\net7.0\Libraries.dll
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\bin\Debug\net7.0\Libraries.pdb
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\obj\Debug\net7.0\Libraries.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\obj\Debug\net7.0\Libraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\obj\Debug\net7.0\Libraries.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\obj\Debug\net7.0\Libraries.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\obj\Debug\net7.0\Libraries.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\obj\Debug\net7.0\Libraries.dll
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\obj\Debug\net7.0\refint\Libraries.dll
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\obj\Debug\net7.0\Libraries.pdb
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\obj\Debug\net7.0\Libraries.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson36.EntityFramework\Libraries\obj\Debug\net7.0\ref\Libraries.dll
